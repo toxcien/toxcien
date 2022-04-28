@@ -1,4 +1,4 @@
-- I’m @toxcien
+- I’m toxcien
 - I’m interested in privacy and security
 - I’m currently learning about privacy
 
